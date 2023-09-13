@@ -1,0 +1,20 @@
+.restaurantCard {
+    text-align: center;
+    border-style: solid;
+    width: fit-content;
+    margin: auto;
+    padding: 1%;
+}
+
+.viewMenu {
+    background-color: #cc0806;
+    border: none;
+    border-radius: 10px;
+    padding: 2% 5%;
+    color: #fdf1f0;
+}
+
+.title {
+    text-align: center;
+    margin: 5% auto;
+}
