@@ -43,28 +43,28 @@ function App() {
                     link='https://terryblacksbbq.com/'
                 />
                 <Restaurant
-                    image='https://www.fbgcdn.com/pictures/3fa18f3e-0eea-4f16-8352-1cf92ddca41b.jpg'
-                    name='Hoki Poki'
-                    cuisine='Hawaiian'
-                    link='https://www.orderhokipoki.com/'
+                    image='src/images/BullDaddy.jpeg'
+                    name='Bull Daddy'
+                    cuisine='Chinese'
+                    link='https://www.bulldaddynoodle.com/'
                 />
                 <Restaurant
-                    image='https://www.fbgcdn.com/pictures/3fa18f3e-0eea-4f16-8352-1cf92ddca41b.jpg'
-                    name='Hoki Poki'
-                    cuisine='Hawaiian'
-                    link='https://www.orderhokipoki.com/'
+                    image='src/images/WokStar.jpeg'
+                    name='Wok Star'
+                    cuisine='Chinese'
+                    link='https://wokstarchinese.com/'
                 />
                 <Restaurant
-                    image='https://www.fbgcdn.com/pictures/3fa18f3e-0eea-4f16-8352-1cf92ddca41b.jpg'
-                    name='Hoki Poki'
-                    cuisine='Hawaiian'
-                    link='https://www.orderhokipoki.com/'
+                    image='src/images/Cris&John.jpeg'
+                    name='Cris & John'
+                    cuisine='Vietnamese'
+                    link='https://www.crisandjohn.com/'
                 />
                 <Restaurant
-                    image='https://www.fbgcdn.com/pictures/3fa18f3e-0eea-4f16-8352-1cf92ddca41b.jpg'
-                    name='Hoki Poki'
-                    cuisine='Hawaiian'
-                    link='https://www.orderhokipoki.com/'
+                    image='src/images/WabiHouse.jpeg'
+                    name='Wabi House'
+                    cuisine='Japanese'
+                    link='https://www.wabihousetx.com/'
                 />
             </div>
         </div>
