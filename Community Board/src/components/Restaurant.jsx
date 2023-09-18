@@ -3,9 +3,9 @@ const Restaurant = (props) => {
     return (
         <div className='restaurantCard'>
             <img src={props.image} alt='oops no image' />
-            <h2>{props.name}</h2>
-            <h4>{props.cuisine}</h4>
-            <a href={props.link}>
+            <h4>{props.name}</h4>
+            <h6>{props.cuisine}</h6>
+            <a href={props.link} target='_blank'>
                 <button className='viewMenu'>View Menu</button>
             </a>
         </div>
