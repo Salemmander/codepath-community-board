@@ -18,10 +18,6 @@ The following **optional** features are implemented:
 - [x] Buttons or links to a related resources are on each card component
 - [x] The site is responsive for both desktop and mobile formats
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
@@ -41,7 +37,7 @@ GIF created with Kap
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Salem Nassar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
